@@ -1,0 +1,16 @@
+extends baseEmail
+
+block content
+  p Bonjour #{name},
+  p Bienvenue dans notre application, nous sommes heureux de te compter parmis nous 🎉🙏
+  table.btn.btn-primary(role='presentation', border='0', cellpadding='0', cellspacing='0')
+    tbody
+      tr
+        td(align='left')
+          table(role='presentation', border='0', cellpadding='0', cellspacing='0')
+            tbody
+              tr
+                td
+                  //- a(href=`${url}`, target='_blank') Upload user photo
+  p Si tu as des questions, n'hésite pas à me contacter 😉
+  p - IDIR Walid Hakim, DEV

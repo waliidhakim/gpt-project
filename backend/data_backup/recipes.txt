@@ -1,0 +1,292 @@
+{
+    "message": "success",
+    "count": 10,
+    "recipes": [
+        {
+            "ingredients": [
+                "1 pâte à pizza fine",
+                "200 ml de sauce tomate",
+                "200 g de mozzarella fraîche",
+                "Feuilles de basilic frais",
+                "2 cuillères à soupe d'huile d'olive extra vierge",
+                "Sel au goût"
+            ],
+            "steps": [
+                "Préchauffez votre four à 240°C (220°C avec ventilateur).",
+                "Étalez la pâte à pizza sur une plaque à four ou une pierre à pizza.",
+                "Étalez la sauce tomate uniformément sur la pâte, en laissant un petit bord tout autour.",
+                "Tranchez la mozzarella et disposez-la uniformément sur la sauce tomate.",
+                "Cuisez au four pendant 10-12 minutes, ou jusqu'à ce que la pâte soit dorée et croustillante.",
+                "Retirez du four et garnissez de feuilles de basilic frais.",
+                "Arrosez d'huile d'olive extra vierge et ajoutez une pincée de sel au goût.",
+                "Servez immédiatement."
+            ],
+            "rating": 0,
+            "_id": "6542611e08b9ee02035b2a2b",
+            "title": "Pizza Margherita",
+            "description": "La pizza Margherita est une pizza garnie de sauce tomate, de mozzarella, de feuilles de basilic frais, de sel et d'huile d'olive. Elle est considérée par beaucoup comme la pizza italienne traditionnelle.",
+            "image": "https://images.ctfassets.net/nw5k25xfqsik/64VwvKFqxMWQORE10Tn8pY/200c0538099dc4d1cf62fd07ce59c2af/20220211142754-margherita-9920.jpg?w=1024",
+            "reviews": [],
+            "__v": 0
+        },
+        {
+            "ingredients": [
+                "500 g de semoule de couscous",
+                "500 g d'agneau coupé en morceaux",
+                "3 carottes",
+                "3 courgettes",
+                "2 navets",
+                "1 oignon émincé",
+                "2 tomates pelées et hachées",
+                "100 g de pois chiches trempés la veille",
+                "1 cuillère à café de curcuma",
+                "1 cuillère à café de paprika",
+                "1 cuillère à café de coriandre moulue",
+                "1 pincée de piment",
+                "Sel et poivre au goût",
+                "2 cuillères à soupe d'huile d'olive",
+                "1,5 L d'eau"
+            ],
+            "steps": [
+                "Dans une grande marmite, faire revenir l'oignon émincé et l'agneau dans l'huile d'olive.",
+                "Ajouter les tomates hachées, les épices, le sel et le poivre. Faire revenir pendant quelques minutes.",
+                "Ajouter l'eau et porter à ébullition.",
+                "Ajouter les pois chiches, les carottes et les navets coupés en morceaux. Laisser mijoter pendant 30 minutes.",
+                "Ajouter les courgettes coupées en morceaux et continuer à mijoter jusqu'à ce que les légumes soient tendres et la viande cuite.",
+                "Pendant ce temps, préparer la semoule selon les instructions du paquet, généralement en la versant dans un grand bol, en ajoutant de l'eau bouillante et en la couvrant pendant quelques minutes. Ensuite, égrenez la semoule avec une fourchette pour la séparer.",
+                "Servir la semoule dans un grand plat, avec la viande et les légumes par-dessus. Verser un peu de bouillon sur le dessus si désiré.",
+                "Le couscous est traditionnellement servi avec du harissa ou d'autres condiments selon les préférences."
+            ],
+            "rating": 0,
+            "_id": "654261ef08b9ee02035b2a2e",
+            "title": "Couscous traditionnel",
+            "description": "Le couscous est un plat traditionnel d'Afrique du Nord composé de semoule de blé dur cuite à la vapeur et généralement accompagnée de légumes, de viande et d'épices.",
+            "image": "https://fac.img.pmdstatic.net/fit/https.3A.2F.2Fi.2Epmdstatic.2Enet.2Ffac.2F2021.2F02.2F01.2Fb891cbef-079c-496f-af36-1b907db64ad4.2Ejpeg/750x562/quality/80/crop-from/center/cr/wqkgTWFyaWVsbGUvUGhvdG9jdWlzaW5lIC8gRmVtbWUgQWN0dWVsbGU%3D/couscous-d-agneau-aux-fruits-secs.jpeg",
+            "reviews": [],
+            "__v": 0
+        },
+        {
+            "ingredients": [
+                "300 g de riz à paella",
+                "500 g de poulet en morceaux",
+                "500 g de lapin en morceaux",
+                "100 g de haricots verts",
+                "1 tomate pelée et hachée",
+                "1 poivron rouge coupé en lanières",
+                "1 oignon émincé",
+                "2 gousses d'ail émincées",
+                "1 cuillère à café de paprika",
+                "0,5 g de safran",
+                "1 litre de bouillon de volaille",
+                "4 cuillères à soupe d'huile d'olive",
+                "Sel et poivre au goût"
+            ],
+            "steps": [
+                "Dans une grande poêle à paella, faire chauffer l'huile d'olive et y faire revenir le poulet et le lapin jusqu'à ce qu'ils soient bien dorés.",
+                "Ajouter l'oignon, l'ail, le poivron et la tomate. Faire revenir jusqu'à ce que les légumes soient tendres.",
+                "Ajouter le riz et remuer pour bien enrober les grains.",
+                "Ajouter le paprika, le safran, le sel et le poivre.",
+                "Verser le bouillon de volaille chaud et porter à ébullition.",
+                "Réduire le feu, ajouter les haricots verts et laisser mijoter sans remuer jusqu'à ce que le riz soit cuit et que le liquide soit absorbé.",
+                "Servir chaud."
+            ],
+            "rating": 0,
+            "_id": "654262cd28d42c02112302e3",
+            "title": "Paella Valenciana",
+            "description": "La paella valenciana est un plat traditionnel espagnol originaire de la région de Valence. Elle est généralement composée de riz, de légumes, de poulet, de lapin et parfois de fruits de mer.",
+            "image": "https://img.cuisineaz.com/660x660/2013/12/20/i18894-paella-valenciana.jpeg",
+            "reviews": [],
+            "__v": 0
+        },
+        {
+            "ingredients": [
+                "500 g de bœuf coupé en cubes",
+                "200 g de lardons",
+                "2 carottes en rondelles",
+                "1 oignon émincé",
+                "200 g de champignons",
+                "75 cl de vin rouge de Bourgogne",
+                "2 gousses d'ail émincées",
+                "1 bouquet garni (thym, laurier)",
+                "3 cuillères à soupe d'huile d'olive",
+                "Sel et poivre au goût"
+            ],
+            "steps": [
+                "Dans une grande cocotte, faire chauffer l'huile d'olive et y faire dorer les cubes de bœuf de tous côtés.",
+                "Ajouter l'oignon émincé et les lardons. Faire revenir jusqu'à ce que l'oignon soit tendre.",
+                "Ajouter les carottes, l'ail, les champignons, le bouquet garni, le sel et le poivre.",
+                "Verser le vin rouge sur le mélange et porter à ébullition.",
+                "Réduire le feu et laisser mijoter pendant 2 heures ou jusqu'à ce que la viande soit tendre.",
+                "Retirer le bouquet garni avant de servir.",
+                "Servir chaud, idéalement avec des pommes de terre ou du pain frais."
+            ],
+            "rating": 0,
+            "_id": "6542630b28d42c02112302e5",
+            "title": "Bœuf Bourguignon",
+            "description": "Le bœuf bourguignon est un ragoût de bœuf mijoté dans du vin rouge de Bourgogne, avec des oignons, des champignons et des lardons. C'est un classique de la cuisine française.",
+            "image": "https://img-3.journaldesfemmes.fr/n7hKEGA7OFGZ8KfeTewfNnrt6H8=/750x500/smart/d6db2baa728b47f8adbf30b99a957dc0/recipe-jdf/10002051.jpg",
+            "reviews": [],
+            "__v": 0
+        },
+        {
+            "ingredients": [
+                "1 aubergine coupée en dés",
+                "1 courgette coupée en dés",
+                "1 poivron rouge coupé en lanières",
+                "1 poivron jaune coupé en lanières",
+                "1 oignon émincé",
+                "2 tomates pelées et hachées",
+                "2 gousses d'ail émincées",
+                "4 cuillères à soupe d'huile d'olive",
+                "1 cuillère à café de thym séché",
+                "1 cuillère à café de romarin séché",
+                "Sel et poivre au goût"
+            ],
+            "steps": [
+                "Dans une grande poêle ou une cocotte, chauffer l'huile d'olive à feu moyen.",
+                "Ajouter l'oignon et l'ail émincés, et faire revenir jusqu'à ce qu'ils soient translucides.",
+                "Ajouter les poivrons, les aubergines, les courgettes et les tomates. Remuer régulièrement.",
+                "Assaisonner avec le thym, le romarin, le sel et le poivre.",
+                "Couvrir et laisser mijoter à feu doux pendant 30 minutes, en remuant de temps en temps.",
+                "Une fois que les légumes sont bien cuits et que la ratatouille est parfumée, retirer du feu.",
+                "Servir chaud ou à température ambiante."
+            ],
+            "rating": 0,
+            "_id": "6542636e28d42c02112302e7",
+            "title": "Ratatouille",
+            "description": "La ratatouille est un mélange de légumes méditerranéens mijotés, originaire de Provence. Elle peut être servie comme accompagnement ou comme plat principal.",
+            "image": "https://www.etal-des-epices.com/wp-content/uploads/2021/04/ratatouille-maison.jpg.webp",
+            "reviews": [],
+            "__v": 0
+        },
+        {
+            "ingredients": [
+                "250g de lasagnes",
+                "500g de viande hachée",
+                "1 oignon émincé",
+                "2 gousses d'ail émincées",
+                "400g de tomates en conserve",
+                "50g de beurre",
+                "50g de farine",
+                "500ml de lait",
+                "100g de parmesan râpé",
+                "Sel et poivre au goût"
+            ],
+            "steps": [
+                "Préchauffez le four à 180°C.",
+                "Dans une poêle, faire revenir l'oignon et l'ail jusqu'à ce qu'ils soient tendres.",
+                "Ajoutez la viande hachée et cuire jusqu'à ce qu'elle soit dorée.",
+                "Ajoutez les tomates, le sel et le poivre. Laissez mijoter pendant 20 minutes.",
+                "Dans une autre casserole, faites fondre le beurre. Ajoutez la farine et remuez bien. Versez le lait progressivement, en remuant constamment jusqu'à ce que la sauce épaississe. Ajoutez la moitié du parmesan.",
+                "Dans un plat à gratin, étalez une couche de sauce à la viande, puis une couche de lasagnes, puis une couche de béchamel. Répétez jusqu'à épuisement des ingrédients.",
+                "Saupoudrez du reste du parmesan sur le dessus.",
+                "Cuisez au four pendant 30 minutes ou jusqu'à ce que le dessus soit doré.",
+                "Laissez reposer pendant 10 minutes avant de servir."
+            ],
+            "rating": 0,
+            "_id": "654264cc28d42c02112302ea",
+            "title": "Lasagnes à la bolognaise",
+            "description": "Les lasagnes à la bolognaise sont un plat italien classique, avec des couches alternées de pâtes, de sauce à la viande et de fromage béchamel.",
+            "image": "https://www.guydemarle.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGp0QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--884a389539d29ef66766630710879974c15c3f20/lasagne-bolognaise-39609.webp",
+            "reviews": [],
+            "__v": 0
+        },
+        {
+            "ingredients": [
+                "2 avocats mûrs",
+                "1 tomate coupée en dés",
+                "1 oignon émincé",
+                "1 piment vert émincé (facultatif)",
+                "Le jus d'un citron vert",
+                "Sel et poivre au goût",
+                "Un peu de coriandre fraîche hachée"
+            ],
+            "steps": [
+                "Coupez les avocats en deux, retirez le noyau et récupérez la chair.",
+                "Écrasez la chair d'avocat dans un bol jusqu'à obtenir une consistance crémeuse.",
+                "Ajoutez la tomate, l'oignon, le piment, le jus de citron vert, le sel, le poivre et la coriandre.",
+                "Mélangez bien et servez immédiatement."
+            ],
+            "rating": 0,
+            "_id": "6542651828d42c02112302ec",
+            "title": "Guacamole",
+            "description": "Le guacamole est une sauce d'avocat mexicaine, parfaite pour les chips tortilla ou comme garniture.",
+            "image": "https://assets.afcdn.com/recipe/20181123/84182_w1024h1024c1cx2592cy1728.webp",
+            "reviews": [],
+            "__v": 0
+        },
+        {
+            "ingredients": [
+                "5 grosses pommes",
+                "150g de sucre",
+                "75g de beurre",
+                "1 pâte brisée ou feuilletée"
+            ],
+            "steps": [
+                "Préchauffez le four à 180°C.",
+                "Dans une poêle allant au four, faites fondre le beurre et ajoutez le sucre. Cuisez jusqu'à obtenir un caramel doré.",
+                "Pelez les pommes, coupez-les en quartiers et retirez le cœur. Disposez-les sur le caramel.",
+                "Recouvrez les pommes de pâte en rentrant les bords à l'intérieur de la poêle.",
+                "Cuisez au four pendant 30 minutes ou jusqu'à ce que la pâte soit dorée.",
+                "Retirez du four et laissez refroidir pendant quelques minutes avant de renverser sur un plat de service."
+            ],
+            "rating": 0,
+            "_id": "6542659228d42c02112302ee",
+            "title": "Tarte tatin",
+            "description": "La tarte tatin est une tarte aux pommes renversée, originaire de France. Les pommes sont caramélisées dans du beurre et du sucre avant d'être recouvertes de pâte et cuites.",
+            "image": "//files.meilleurduchef.com/mdc/photo/recette/tarte-tatin/tarte-tatin-640.jpg",
+            "reviews": [],
+            "__v": 0
+        },
+        {
+            "ingredients": [
+                "400g de pois chiches cuits",
+                "2 cuillères à soupe de tahini",
+                "2 gousses d'ail émincées",
+                "Le jus d'un citron",
+                "3 cuillères à soupe d'huile d'olive",
+                "Sel au goût",
+                "Une pincée de paprika (pour garnir)"
+            ],
+            "steps": [
+                "Dans un mixeur, combinez les pois chiches, le tahini, l'ail, le jus de citron, l'huile d'olive et le sel.",
+                "Mixez jusqu'à obtenir une consistance lisse et crémeuse.",
+                "Transférez dans un bol, arrosez d'un filet d'huile d'olive et saupoudrez de paprika.",
+                "Servez avec du pain pita ou des crudités."
+            ],
+            "rating": 0,
+            "_id": "654265ed28d42c02112302f0",
+            "title": "Hummus",
+            "description": "Le hummus est une purée de pois chiches originaire du Moyen-Orient, généralement assaisonnée de tahini, d'ail et de jus de citron.",
+            "image": "https://img-3.journaldesfemmes.fr/v8NheT5ve7LTYtYSoN9THzgiyJc=/750x500/smart/e36acaa10c574ed1b2196bab18dde951/recipe-jdf/10018957.jpg",
+            "reviews": [],
+            "__v": 0
+        },
+        {
+            "ingredients": [
+                "2 tasses de feuilles de basilic frais",
+                "1/2 tasse de pignons de pin",
+                "2 gousses d'ail émincées",
+                "1/2 tasse de parmesan râpé",
+                "1/4 tasse de pecorino râpé",
+                "1/2 tasse d'huile d'olive extra-vierge",
+                "Sel au goût"
+            ],
+            "steps": [
+                "Dans un mixeur ou un mortier, combinez le basilic, les pignons de pin et l'ail.",
+                "Mixez ou écrasez jusqu'à obtenir une pâte.",
+                "Ajoutez les fromages et mixez à nouveau.",
+                "Tout en mixant, versez l'huile d'olive en filet jusqu'à obtenir une sauce lisse.",
+                "Assaisonnez de sel au goût.",
+                "Servez avec des pâtes ou comme garniture pour le pain."
+            ],
+            "rating": 0,
+            "_id": "6542663328d42c02112302f2",
+            "title": "Pesto alla genovese",
+            "description": "Le pesto alla genovese est une sauce italienne à base de basilic, de pignons de pin, d'ail, de parmesan, de pecorino et d'huile d'olive.",
+            "image": "https://img-3.journaldesfemmes.fr/5fE9a7pyIM8XN4tCaRNg2jZ87LI=/750x500/smart/428afc5eaedc466f81f1bf4d5f7529ba/recipe-jdf/322107.jpg",
+            "reviews": [],
+            "__v": 0
+        }
+    ]
+}
