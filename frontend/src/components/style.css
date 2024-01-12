@@ -1,0 +1,42 @@
+.myClass{
+    padding-top: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  .myForm{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 5%;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    text-align: left;
+  }
+  .myContent{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    width: 80%;
+  }
+  .myTitle{
+    text-align: left;
+  }
+  .myConfirm{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    padding-top: 5%;
+  }
+  input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    padding: 8px 12px;
+    width: 800px;
+    text-align: center;
+}

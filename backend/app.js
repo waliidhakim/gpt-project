@@ -26,13 +26,12 @@ const accessLogStream = fs.createWriteStream(
 
 // app.use(morgan('combined', { stream: accessLogStream }));
 app.use(morgan("dev"));
-
 app.use(bodyParser.json());
 
 app.use((req, res, next) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, DELETE, OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type,Authorization');
   next();
 });
 

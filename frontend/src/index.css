@@ -8,9 +8,11 @@ html {
 
 body {
   margin: 0;
-  background-color: #383838;
+  background-color: #FFF;
 }
-
+li{
+  text-decoration: none;
+}
 label {
   font-weight: bold;
   margin-bottom: 0.5rem;
@@ -39,17 +41,17 @@ input:focus {
 
 button {
   font: inherit;
-  background-color: #6e0040;
+  background-color: #000;
   color: white;
   border: 1px solid #6e0040;
   border-radius: 30px;
   padding: 0.5rem 1.5rem;
   cursor: pointer;
-  font-size: 2rem;
+  font-size: 1rem;
 }
 
 button:hover,
 button:active {
-  background-color: #b80e71;
-  border-color: #b80e71;
+  background-color: #5c5c5c;
+  border-color: #000;
 }
